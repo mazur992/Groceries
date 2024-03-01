@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "laptop",
+    "price": 1100,
+    "imgUrl": "https://cdn.pixabay.com/photo/2016/06/08/10/35/laptop-1443559_1280.jpg"
+  },
+  {
+    "id": 2,
+    "name": "lemon",
+    "price": 0.9,
+    "imgUrl": "https://cdn.pixabay.com/photo/2020/07/25/10/19/italy-5436270_1280.jpg"
+  },
+  {
+    "id": 3,
+    "name": "tablet",
+    "price": 750,
+    "imgUrl": "https://cdn.pixabay.com/photo/2014/11/12/15/48/tablet-pc-528464_1280.jpg"
+  },
+  {
+    "id": 4,
+    "name": "coffee",
+    "price": 5.35,
+    "imgUrl": "https://cdn.pixabay.com/photo/2016/04/12/11/19/coffee-1324126_1280.jpg"
+  }
+]
