@@ -1,5 +1,6 @@
 {
   "name": "groceries",
+  "homepage": "https://mazur992.github.io/Groceries/",
   "private": true,
   "version": "0.0.0",
   "type": "module",
