@@ -10,13 +10,13 @@ export function NavBar() {
       <Container>
         <Nav className="me-auto">
           <Nav.Link to="/" as={NavLink}>
-            Home
+            <span className="fs-3">Home</span>
           </Nav.Link>
           <Nav.Link to="/store" as={NavLink}>
-            Store
+            <span className="fs-3">Store</span>
           </Nav.Link>
           <Nav.Link to="/about" as={NavLink}>
-            About
+            <span className="fs-3">About</span>
           </Nav.Link>
         </Nav>
         <Button
