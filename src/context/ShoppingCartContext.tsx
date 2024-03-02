@@ -74,8 +74,8 @@ export function ShoppingCartProvider({ children }: ShoppingCartProviderProps) {
   }
 
   function removeFromCard(id: number) {
-    setCartItems((curreItems) => {
-      return curreItems.filter((item) => item.id !== id);
+    setCartItems((currItems) => {
+      return currItems.filter((item) => item.id !== id);
     });
   }
 
